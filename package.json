@@ -1,0 +1,16 @@
+{
+  "name": "ccc-trades-to-file",
+  "version": "1.0.0",
+  "description": "A simple NodeJS script for streaming trade data from the CryptoCompare API to a JSON file.",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.88.0",
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
